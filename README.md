@@ -5,3 +5,5 @@ Now worked on the error and made the changes accordingly for the first commit wh
 Adding comment for commit
 
 Creating a new branch
+
+Checkout from the branch
